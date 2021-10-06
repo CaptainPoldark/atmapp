@@ -1,0 +1,16 @@
+body{
+  align-items: center;
+}
+
+button {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+.dropdown-item {
+    display: block;
+    color: white;
+  }
+  
